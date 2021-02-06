@@ -3,7 +3,7 @@ This is my personal Portifolio.
 
 # About Me
 
-![About Me](https://user-images.githubusercontent.com/69632533/107122856-0f2ef800-6879-11eb-8333-9453629b20e5.jpg)
+![About Me-Melhor-Tamanho](https://user-images.githubusercontent.com/69632533/107123034-160a3a80-687a-11eb-8966-6abc6e3fd45a.jpg)
 
 # Knowledge
 

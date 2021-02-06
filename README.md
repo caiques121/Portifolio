@@ -1,5 +1,6 @@
 # Portifolio
-This is my personal Portifolio.
+Hi! How are you doing? 
+This is my personal portifolio.
 
 # About Me
 

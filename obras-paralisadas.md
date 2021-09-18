@@ -6,4 +6,5 @@ Neste projeto, criei um dashboard para fácil visualização de dados coletados 
 
 Ele tem como objetivo mostrar, de forma estruturada, as obras com investimento federal que estão paralisadas.
 
-Você acessa-lo aqui [Obras Paralisadas](https://datastudio.google.com/reporting/4269985a-f7ba-4641-a663-4bf569c8fdf5)
+Você acessa-lo aqui:
+<font: 4> :link: [Obras Paralisadas](https://datastudio.google.com/reporting/4269985a-f7ba-4641-a663-4bf569c8fdf5)

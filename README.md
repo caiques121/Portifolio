@@ -3,4 +3,4 @@ Sou Caique, tenho 23 anos e trabalho com programação e data science há 2 anos
 
 Se quiser/precisar entrar em contato comigo, pode entrar aqui! 
 
-[LinkedIn](https://www.linkedin.com/in/caique-rezende-a792b7164/)
+:link:[LinkedIn](https://www.linkedin.com/in/caique-rezende-a792b7164/)

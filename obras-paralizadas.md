@@ -1,9 +1,6 @@
-> Obras Paralizadas
+> Obras Paralisadas
 
-[img]:
-https://drive.google.com/file/d/1KeEPNbrVsb5GDllsRLj_X7qd5HD5eVYD/view?usp=sharing
-
-[img]
+[Obras Paralisadas](https://drive.google.com/file/d/1KeEPNbrVsb5GDllsRLj_X7qd5HD5eVYD/view?usp=sharing)
 
 Neste projeto, criei um dashboard para fácil visualização de dados coletados por mim e meu colega de trabalho 'Luiz Legaspe', diretamente do TCU (Tribunal de Contas da União).
 

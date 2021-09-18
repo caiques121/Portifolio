@@ -1,6 +1,7 @@
-<h3>Olá humanos (E não humanos)! Como vão? :smiley: </h3>
-Sou Caique, tenho 23 anos e trabalho com programação e data science há 2 anos. Este é meu portifólio e é aqui que arquivarei meus projetos e farei minhas contribuições à comunidade.
+Hello humans (And not humans)! How are you? 😃
 
-Se quiser/precisar entrar em contato comigo, pode entrar aqui! 
+I'm Caique, I'm 23 years old and I've been working with programming and data science for 2 years. This is my portfolio and this is where I will archive my projects and make my contributions to the community.
 
-:link:[LinkedIn](https://www.linkedin.com/in/caique-rezende-a792b7164/)
+If you want/need to get in touch with me, you can enter here!
+
+🔗[Linkedin](https://www.linkedin.com/in/caique-rezende-a792b7164/)

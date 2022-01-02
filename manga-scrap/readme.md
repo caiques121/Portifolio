@@ -1,8 +1,8 @@
-Mangá Scrap
+Manga Scrap
 ===========
 
-No natal de 2021, comprei um kindle, visto que gosto de ler mangás e gostaria de lê-los em qualquer lugar com uma tela razoavelmente grande. Entretanto, o catálogo de mangás nativo não é muito grande e sei que existem sites para fazer essa leitura online.
+On Christmas 2021 I bought a kindle as I like to read manga and would like to read them anywhere with a reasonably large screen. However, the native manga catalog is not very large and I know there are sites to do this reading online.
 
-Eis que surgiu este projeto! Criei algoritmos que entram nestes sites de leitura de mangás online, baixam e organizam os .jpgs das páginas, e criam pdfs organizados dos capítulos com o nome do próprio capitulo no nome do arquivo.
+Behold, this project appeared! I created algorithms that go (Using Selenium) into these online manga reading sites, download and organize the .jpgs of the pages, and create organized pdfs of the chapters with the name of the chapter itself in the filename.
 
-Criei dois, um que executa a partir de um site de um projeto de mangás do One Piece e outro, que executa partindo do capítulo -16 de Berserk. Entretanto, este segundo, funciona com qualquer mangá deste site, você só precisa iniciar partindo do capitulo que você precisa, que ele TODOS!
+I created two, one that runs from a One Piece manga project website and the other that runs from chapter -16 of Berserk. However, this second, works with any manga on this site, you just need to start from the chapter you need, that ALL!

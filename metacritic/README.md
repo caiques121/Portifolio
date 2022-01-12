@@ -1,12 +1,13 @@
 
-# Metacritic Scraip
+# Metacritic Scrap
 
 This project has the mission to collect the ranking of the best video games of all time, ordered by MetaScore, on Metacritic.
 
-## Referência
+## Reference
 
  - [Metacritic](https://www.metacritic.com)
-## Apêndice
+
+## Appendix
 
 This code is developed in Python using Selenium and Pandas.
 

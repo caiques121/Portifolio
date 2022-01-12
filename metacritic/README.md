@@ -1,17 +1,19 @@
 
 # Metacritic Scraip
 
-Este projeto tem como objetivo coletar o ranking dos melhores jogos de videogame de todos os tempos, ordenados por MetaScore.
+This project has the mission to collect the ranking of the best video games of all time, ordered by MetaScore, on Metacritic.
 
 ## Referência
 
  - [Metacritic](https://www.metacritic.com)
 ## Apêndice
 
-Este código é desenvolvido em Python utilizando Selenium e Pandas
+This code is developed in Python using Selenium and Pandas.
 
-A base na pasta 'output' contém uma amostra dos dados coletados.
-## Autor
+The .csv file in the 'output' folder contains a sample of the collected data. It contains the columns:
+- Game, Ranking, Metascore, Platform, Release Date
+
+## Author
 
 - [@caiques121](https://github.com/caiques121)
 

@@ -1,7 +1,7 @@
 
 # Mangá Scrap
 
-On Christmas 2021 I bought a kindle because I like to read manga and I would like to read them anywhere with a reasonably large screen. However, the native manga from amazon catalog is not very large and I know there are sites to do this reading online.
+On Christmas of 2021 I bought a kindle because I like to read manga and I would like to read them anywhere with a reasonably large screen. However, the native manga from amazon catalog is not very large and I know there are sites to do this reading online.
 
 Behold, this project appeared! I created algorithms that go (Using Selenium) into these online manga reading sites, download and organize the .jpgs of the pages, and create organized pdfs of the chapters with the name of the chapter itself in the filename.
 

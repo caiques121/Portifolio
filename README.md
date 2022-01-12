@@ -1,7 +1,17 @@
-<h3> Hello humans (And not humans)! How are you? 😃 </h3>
 
-I'm Caique, I'm 23 years old and I've been working with programming and data science for 4 years. This is my portfolio and this is where I will archive my projects and make my contributions to the community.
+# Metacritic Scraip
 
-If you want/need to get in touch with me, you can enter here!
+Este projeto tem como objetivo coletar o ranking dos melhores jogos de videogame de todos os tempos, ordenados por MetaScore.
 
-🔗[Linkedin](https://www.linkedin.com/in/caique-rezende-a792b7164/)
+## Referência
+
+ - [Metacritic](https://www.metacritic.com)
+## Apêndice
+
+Este código é desenvolvido em Python utilizando Selenium e Pandas
+
+A base na pasta 'output' contém uma amostra dos dados coletados.
+## Autor
+
+- [@caiques121](https://github.com/caiques121)
+

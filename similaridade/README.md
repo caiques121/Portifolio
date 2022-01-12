@@ -1,7 +1,7 @@
 
 # Similarities
 
-This project aims to help in situations where it is necessary to find the similarity (In %) between string values ​​between two dataframes.
+This project aims to help in situations where it is necessary to find the similarity (In %) in string values, ​​between two dataframes.
 
 ## Reference
 

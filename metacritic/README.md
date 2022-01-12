@@ -9,7 +9,7 @@ This project has the mission to collect the ranking of the best video games of a
 
 ## Appendix
 
-This code is developed in Python using Selenium and Pandas.
+This code was developed in Python using Selenium and Pandas.
 
 The .csv file in the 'output' folder contains a sample of the collected data. It contains the columns:
 - Game 

@@ -37,6 +37,9 @@ while True:
     df["% Usagem da Memória RAM"] = str(perc_memoria_ram[2])
     df["Data e Hora"] = str(hora_formatada)
 
+    ## Junta no registra
+    registra.append(df)
+
     ## Espera
     time.sleep(espera)
 
